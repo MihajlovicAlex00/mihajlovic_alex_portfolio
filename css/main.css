@@ -1,0 +1,54 @@
+.test{
+	margin: 5px;
+	padding: 0;
+	font-family: Arial, serif;
+	background: beige;
+
+}
+.rendezetl{
+	list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+.paragrafus{
+	font-family: Arial, serif;
+	line-height: 1.8;
+	margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  text-align: center;
+  	font-family: Arial, serif;
+}
+
+
+.cim{
+	margin: 70px;
+}
+li{
+	display: inline;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #111;
+}
+img {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+	
+}
+.labjegyzet{
+	font-size: 12px;
+}
+	
+
